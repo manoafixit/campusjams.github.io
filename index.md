@@ -9,7 +9,15 @@
 * Discord is working fine my number is 808(753-2689) for more immediate notification because I don’t see discord unless I open it on my computer.
 
 ### Gian Calica
-
+* Goal: To build a fully functional web application that a student from UHM would actually want to actively use and learn more software engineering practices.
+* Skills (to bring and develop):
+  * Back-end (Meteor and MongoDB)
+  * Front-end (UX Design)
+  * Project Management
+   * Project Structure
+   * Connecting back-end to front-end, vice-versa
+   * Git & GitHub
+   
 ### Graham Francisco
 * To test my knowledge based on what we have learned so far in the semester and incorporate all of them into this final project. I want to learn how to complete a group project in a very efficient and systematic way and I would also like to improve my understanding of javascript, react and meteor.
 * Like most of my classmates, I have acquired most of my skills in 111 and 211 ICS classes in which we extensively used Java. I will do my best to translate the skills I’ve learned in these classes into this project.
