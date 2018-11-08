@@ -1,16 +1,16 @@
 # Manoa Fix It
 
-### Group Members
+## Group Members
 
-#### Adrian Au
+### Adrian Au
 * I want to learn how an actual software engineer operates with a group and what is needed to create a successful project. I hope to improve on my skills using GitHub and as well as with meteor. 
 * All skills that I own have been obtained through this class and prior classes such as 111 and 211
 * Unavailable on Saturday nights but mostly available all day Sunday (we could meet on sundays) 
 * Discord is working fine my number is 808(753-2689) for more immediate notification because I don’t see discord unless I open it on my computer.
 
-#### Gian Calica
+### Gian Calica
 
-#### Graham Francisco
+### Graham Francisco
 * To test my knowledge based on what we have learned so far in the semester and incorporate all of them into this final project. I want to learn how to complete a group project in a very efficient and systematic way and I would also like to improve my understanding of javascript, react and meteor.
 * Like most of my classmates, I have acquired most of my skills in 111 and 211 ICS classes in which we extensively used Java. I will do my best to translate the skills I’ve learned in these classes into this project.
 * I’m almost always available every night, except if there are two or more midterms within an upcoming week. If online, I’m virtually always available to meet with the group, and if it’s in person, only the weekends (preferably Saturday, but Sundays are ok).
