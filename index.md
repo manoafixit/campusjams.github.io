@@ -20,7 +20,7 @@ ManoaFixIt is a user-friendly application that enables all students around UH Ma
 
 [Milestone 2](https://github.com/manoafixit/manoafixit/projects/2) - In Progress
 
-## Website Progress
+## App Progress
 
 ### Installation
 * [Download the app](https://github.com/manoafixit/manoafixit). Remember to go to the **dev** branch and not the **master**.
@@ -30,7 +30,6 @@ ManoaFixIt is a user-friendly application that enables all students around UH Ma
 * Next, type *meteor npm run start*.
   * This will initiliaze meteor, so you could run your app on *http://localhost:3000*
 
-## App Progress
 (click on image to redirect to particular page)
 
 ### Landing
