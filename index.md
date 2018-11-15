@@ -14,21 +14,11 @@
 ## Overview
 ManoaFixIt is a user-friendly application that enables all students around UH Manoa Campus to directly report any issues, such as a broken door knob that could potentially trap people inside a room, a dysfunctional toilet that does not flush which makes bathrooms unsanitary and unwelcoming, etc. It also enables students to post their suggestions on how to improve the campus itself. Once a student sumbits an issue, ManoaFixIt displays the issue on a feed where people can upvote it to increase its urgency. This way, the authorities would know which issue requires the most immediate attention, and they can also choose to accept or reject them.
 
-## Mockup Screenshots:
+## Milestones:
 
-Similar webpages we plan to use for our application. Note that these are only mockup pages and are subject to change over the course of the project's development.
+[Milestone 1](https://github.com/manoafixit/manoafixit/projects/1) - Done
 
-### Landing
-
-This is where users will be redirected and where they will sign up or sign in.
-
-<img src="images/landing.png">
-
-### Lists
-
-We could set up a tab for the problems and suggestions section
-
-<img src="images/lists.PNG">
+[Milestone 2](https://github.com/manoafixit/manoafixit/projects/2) - In Progress
 
 ## Website Progress:
 
