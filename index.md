@@ -55,7 +55,7 @@ This is where the user (who is a UHM student) signs in.
 This is where the user submits issues. Note that the user must put a title and description on the issue while tags are completely optional but are recommended because it eases feed navigation.
 
 ### Map Page
-[<img src="images/signin.PNG">](http://manoafixit.meteorapp.com/#/map)
+[<img src="images/map.PNG">](http://manoafixit.meteorapp.com/#/map)
 This is where the map of UHM campus which shows the location of the issues that were submitted on the application.
 
 ## About us
