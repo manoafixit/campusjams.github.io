@@ -40,7 +40,8 @@ We could set up a tab for the problems and suggestions section
 * Next, type *meteor npm run start*.
   * This will initiliaze meteor, so you could run your app on *http://localhost:3000*
 
-## App Progress (click on image to redirect to particular page)
+## App Progress
+(click on image to redirect to particular page)
 
 ### Landing
 [<img src="images/landingactual.PNG">](http://manoafixit.meteorapp.com/#/)
