@@ -51,7 +51,7 @@ This is where the user is redirected when not logged in. It contains simple desc
 This is where the user (who is a UHM student) signs in.
 
 ### Submit Page (Need to Sign In)
-[<img src="images/signin.PNG">](http://manoafixit.meteorapp.com/#/submit)
+[<img src="images/submit.PNG">](http://manoafixit.meteorapp.com/#/submit)
 This is where the user submits issues. Note that the user must put a title and description on the issue while tags are completely optional but are recommended because it eases feed navigation.
 
 ### Map Page
