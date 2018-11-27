@@ -61,7 +61,7 @@ This is where the map of UHM campus which shows the location of the issues that 
 [<img src="images/milestone2/m2landing.PNG">](https://manoafixit.meteorapp.com/#/)
 This is the landing page a user will first see when not logged in.
 
-[<img src="images/milestone2/m2landing2.PNG">](https://manoafixit.meteorapp.com/#/
+[<img src="images/milestone2/m2landing2.PNG">](https://manoafixit.meteorapp.com/#/)
 After creating an account or signing in, the user will now have access to the navigation bar at the top with different features.
 ### Submit Page
 [<img src="images/milestone2/m2submitwarn.PNG">](http://manoafixit.meteorapp.com/#/)
