@@ -20,7 +20,7 @@ ManoaFixIt is a user-friendly application that enables all students around UH Ma
 
 [Milestone 2](https://github.com/manoafixit/manoafixit/projects/2) - In Progress
 
-(Insert link to Milestone 3)
+[Milestone 3](https://github.com/manoafixit/manoafixit/projects/3) - In Progress
 
 ## User Guide
 
