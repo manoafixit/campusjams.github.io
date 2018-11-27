@@ -58,17 +58,23 @@ This is where the map of UHM campus which shows the location of the issues that 
 ## Milestone 2
 
 ### Landing Page
-[<img src="images/milestone2/m2landing.PNG">](http://manoafixit.meteorapp.com/#/)
+[<img src="images/milestone2/m2landing.PNG">](https://manoafixit.meteorapp.com/#/)
+This is the landing page a user will first see when not logged in.
 
-[<img src="images/milestone2/m2landing2.PNG">](http://manoafixit.meteorapp.com/#/)
+[<img src="images/milestone2/m2landing2.PNG">](https://manoafixit.meteorapp.com/#/
+After creating an account or signing in, the user will now have access to the navigation bar at the top with different features.
 ### Submit Page
 [<img src="images/milestone2/m2submitwarn.PNG">](http://manoafixit.meteorapp.com/#/)
+When initially clicking the submit button, you will be brought to this page where the website should automatically ask for your permission to your location (we need this for you to use our application). 
 
 [<img src="images/milestone2/m2submitwarn2.PNG">](http://manoafixit.meteorapp.com/#/)
+If the permission prompt does not show, follow these instructions for whichever device you are using to grant location access for our application.
 ### Map Page
-[<img src="images/milestone2/m2map.PNG">](http://manoafixit.meteorapp.com/#/)
+[<img src="images/milestone2/m2map.PNG">](https://manoafixit.meteorapp.com/#/map)
+Here is our map page which has an active map over the University of Hawaii at Manoa campus. Here you can see locations where past issues have been submitted, details about that issue, and the issue's status.
 ### Feed Page
-[<img src="images/milestone2/m2feed.PNG">](http://manoafixit.meteorapp.com/#/)
+[<img src="images/milestone2/m2feed.PNG">](https://manoafixit.meteorapp.com/#/feed)
+This is our feed page which shows a list of submitted issues, tags and details about the issue, and also who and when the issue was submitted by
 ## About us
 
 ### Adrian Au
