@@ -58,13 +58,15 @@ This is where the map of UHM campus which shows the location of the issues that 
 ## Milestone 2
 
 ### Landing Page
-
+[<img src="images/m2landing2.PNG">](http://manoafixit.meteorapp.com/#/)
+[<img src="images/m2landing2.PNG">](http://manoafixit.meteorapp.com/#/)
 ### Submit Page
-
+[<img src="images/m2submitwarn.PNG">](http://manoafixit.meteorapp.com/#/)
+[<img src="images/m2submitwarn2.PNG">](http://manoafixit.meteorapp.com/#/)
 ### Map Page
-
+[<img src="images/m2map.PNG">](http://manoafixit.meteorapp.com/#/)
 ### Feed Page
-
+[<img src="images/m2feed.PNG">](http://manoafixit.meteorapp.com/#/)
 ## About us
 
 ### Adrian Au
