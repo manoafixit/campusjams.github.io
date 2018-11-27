@@ -77,7 +77,7 @@ In the mobile version of the app, notice that when logged in, a sidebar button i
 
 <p align="center">
  <a href="https://manoafixit.meteorapp.com/#/">
-  <img width="270" height="907" src="images/milestone2/mobile/m2landingmobile2.PNG">
+  <img width="360" height="716" src="images/milestone2/mobile/m2landingmobile2.PNG">
  </a>
 </p>
 
