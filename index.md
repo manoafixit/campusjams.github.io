@@ -69,11 +69,17 @@ After creating an account or signing in, the user will now have access to the na
 The landing page is also made responsive with mobile devices.
 
 <p align="center">
-  [<img width="270" height="907" src="images/milestone2/mobile/m2landingmobile.PNG">](https://manoafixit.meteorapp.com/#/)
+ <a href="https://manoafixit.meteorapp.com/#/">
+  <img width="270" height="907" src="images/milestone2/mobile/m2landingmobile.PNG">
+ </a>
 </p>
 In the mobile version of the app, notice that when logged in, a sidebar button is implemented in the navbar, showing options for the Feed, Submit, Map Pages as well as the option to sign out.
 
-[<img src="images/milestone2/mobile/m2landingmobile2.PNG">](https://manoafixit.meteorapp.com/#/)
+<p align="center">
+ <a href="https://manoafixit.meteorapp.com/#/">
+  <img width="270" height="907" src="images/milestone2/mobile/m2landingmobile2.PNG">
+ </a>
+</p>
 
 ### Submit Page
 [<img src="images/submit.PNG">](https://manoafixit.meteorapp.com/#/submit)
@@ -89,7 +95,9 @@ If the permission prompt does not show, or if you accidentally denied permission
 Submitting an issue on mobile is fairly easy and responsive.
 
 <p align="center">
-  [<img width="360" height="716" src="images/milestone2/mobile/m2submitmobile.PNG">](https://manoafixit.meteorapp.com/#/submit)
+ <a href="https://manoafixit.meteorapp.com/#/submit">
+  <img width="360" height="716" src="images/milestone2/mobile/m2submitmobile.PNG">
+ </a>
 </p>
 The mobile and desktop version look the same, but since it is possible to do it on mobile, it is far more efficient than having to bring your laptop just to report an issue.
 
@@ -100,12 +108,16 @@ Here is our map page which has an active map over the University of Hawaii at Ma
 #### Mobile Version
 
 <p align="center">
-  [<img width="360" height="716" src="images/milestone2/mobile/m2mapmobile.PNG">](https://manoafixit.meteorapp.com/#/map)
+ <a href="https://manoafixit.meteorapp.com/#/map">
+  <img width="360" height="716" src="images/milestone2/mobile/m2mapmobile.PNG">
+ </a>
 </p>
 The map page also works responsively on mobile. Notice that after submitting an issue, the map places a marker to the location of the submitted issue.
 
 <p align="center">
-  [<img width="360" height="716" src="images/milestone2/mobile/m2mapmobile2.PNG">](https://manoafixit.meteorapp.com/#/map)
+ <a href="https://manoafixit.meteorapp.com/#/map">
+  <img width="360" height="716" src="images/milestone2/mobile/m2mapmobile2.PNG">
+ </a>
 </p>
 Clicking on the marker would display the title and tags of the issue, the date it was submitted, as well as a link to a separate page for the particular issue (To be implemented on Milestone 3).
 
