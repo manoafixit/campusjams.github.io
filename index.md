@@ -1,6 +1,7 @@
 # Manoa Fix It
 
 (click [here](http://manoafixit.meteorapp.com) to redirect to the app)
+(click [here](https://github.com/manoafixit) to visit the Manoafixit github organization page)
 
 ## Goals of the project
 * To create an app that serves a place where all people can address current issues around UHM Campus.
