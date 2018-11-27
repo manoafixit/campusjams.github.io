@@ -38,7 +38,7 @@ ManoaFixIt is a user-friendly application that enables all students around UH Ma
 (click on image to redirect to particular page)
 (you should be logged in to have access to different pages)
 
-## Milestone 1
+## Milestone 1 - Outdated
 
 ### Landing Page
 [<img src="images/landingactual.PNG">](http://manoafixit.meteorapp.com/#/)
@@ -56,7 +56,7 @@ This is where the user submits issues. Note that the user must put a title and d
 [<img src="images/map.PNG">](http://manoafixit.meteorapp.com/#/map)
 This is where the map of UHM campus which shows the location of the issues that were submitted on the application.
 
-## Milestone 2
+## Milestone 2 - Currently Deployed
 
 ### Landing Page
 [<img src="images/milestone2/m2landing.PNG">](https://manoafixit.meteorapp.com/#/)
@@ -68,13 +68,13 @@ After creating an account or signing in, the user will now have access to the na
 #### Mobile Version
 The landing page is also made responsive with mobile devices.
 
-[<img src="images/milestone2/m2landingmobile.PNG">](https://manoafixit.meteorapp.com/#/)
+[<img src="images/milestone2/mobile/m2landingmobile.PNG">](https://manoafixit.meteorapp.com/#/)
 In the mobile version of the app, notice that when logged in, a sidebar button is implemented in the navbar, showing options for the Feed, Submit, Map Pages as well as the option to sign out.
 
-[<img src="images/milestone2/m2landingmobile2.PNG">](https://manoafixit.meteorapp.com/#/)
+[<img src="images/milestone2/mobile/m2landingmobile2.PNG">](https://manoafixit.meteorapp.com/#/)
 
 ### Submit Page
-[<img src="images/milestone2/m2submit.PNG">](https://manoafixit.meteorapp.com/#/submit)
+[<img src="images/submit.PNG">](https://manoafixit.meteorapp.com/#/submit)
 Not much has changed in the submit page ui, except now it asks for permission from the user to give their location. If they do so, the location in which they submitted the issue will be marked on the map page.
 
 [<img src="images/milestone2/m2submitwarn.PNG">](https://manoafixit.meteorapp.com/#/submit)
@@ -86,7 +86,7 @@ If the permission prompt does not show, or if you accidentally denied permission
 #### Mobile Version
 Submitting an issue on mobile is fairly easy and responsive.
 
-[<img src="images/milestone2/m2submitmobile.PNG">](https://manoafixit.meteorapp.com/#/submit)
+[<img src="images/milestone2/mobile/m2submitmobile.PNG">](https://manoafixit.meteorapp.com/#/submit)
 The mobile and desktop version look the same, but since it is possible to do it on mobile, it is far more efficient than having to bring your laptop just to report an issue.
 
 ### Map Page
@@ -94,10 +94,10 @@ The mobile and desktop version look the same, but since it is possible to do it 
 Here is our map page which has an active map over the University of Hawaii at Manoa campus. Here you can see locations where past issues have been submitted, details about that issue, and the issue's status.
 
 #### Mobile Version
-[<img src="images/milestone2/m2mapmobile.PNG">](https://manoafixit.meteorapp.com/#/map)
+[<img src="images/milestone2/mobile/m2mapmobile.PNG">](https://manoafixit.meteorapp.com/#/map)
 The map page also works responsively on mobile. Notice that after submitting an issue, the map places a marker to the location of the submitted issue.
 
-[<img src="images/milestone2/m2mapmobile2.PNG">](https://manoafixit.meteorapp.com/#/map)
+[<img src="images/milestone2/mobile/m2mapmobile2.PNG">](https://manoafixit.meteorapp.com/#/map)
 Clicking on the marker would display the title and tags of the issue, the date it was submitted, as well as a link to a separate page for the particular issue (To be implemented on Milestone 3).
 
 
@@ -107,7 +107,7 @@ This is our feed page which shows a list of submitted issues, tags and details a
 
 #### Mobile Version
 
-The feed page on mobile works, but is not responsive; the table gets distorted.
+The feed page on mobile works but is not responsive; the table gets distorted.
 
 ## About us
 
