@@ -68,7 +68,9 @@ After creating an account or signing in, the user will now have access to the na
 #### Mobile Version
 The landing page is also made responsive with mobile devices.
 
-[<img size="tiny" src="images/milestone2/mobile/m2landingmobile.PNG">](https://manoafixit.meteorapp.com/#/)
+<p align="center">
+  [<img width="270" height="907" src="images/milestone2/mobile/m2landingmobile.PNG">](https://manoafixit.meteorapp.com/#/)
+</p>
 In the mobile version of the app, notice that when logged in, a sidebar button is implemented in the navbar, showing options for the Feed, Submit, Map Pages as well as the option to sign out.
 
 [<img src="images/milestone2/mobile/m2landingmobile2.PNG">](https://manoafixit.meteorapp.com/#/)
@@ -86,7 +88,9 @@ If the permission prompt does not show, or if you accidentally denied permission
 #### Mobile Version
 Submitting an issue on mobile is fairly easy and responsive.
 
-[<img src="images/milestone2/mobile/m2submitmobile.PNG">](https://manoafixit.meteorapp.com/#/submit)
+<p align="center">
+  [<img width="360" height="716" src="images/milestone2/mobile/m2submitmobile.PNG">](https://manoafixit.meteorapp.com/#/submit)
+</p>
 The mobile and desktop version look the same, but since it is possible to do it on mobile, it is far more efficient than having to bring your laptop just to report an issue.
 
 ### Map Page
@@ -94,10 +98,15 @@ The mobile and desktop version look the same, but since it is possible to do it 
 Here is our map page which has an active map over the University of Hawaii at Manoa campus. Here you can see locations where past issues have been submitted, details about that issue, and the issue's status.
 
 #### Mobile Version
-[<img src="images/milestone2/mobile/m2mapmobile.PNG">](https://manoafixit.meteorapp.com/#/map)
+
+<p align="center">
+  [<img width="360" height="716" src="images/milestone2/mobile/m2mapmobile.PNG">](https://manoafixit.meteorapp.com/#/map)
+</p>
 The map page also works responsively on mobile. Notice that after submitting an issue, the map places a marker to the location of the submitted issue.
 
-[<img src="images/milestone2/mobile/m2mapmobile2.PNG">](https://manoafixit.meteorapp.com/#/map)
+<p align="center">
+  [<img width="360" height="716" src="images/milestone2/mobile/m2mapmobile2.PNG">](https://manoafixit.meteorapp.com/#/map)
+</p>
 Clicking on the marker would display the title and tags of the issue, the date it was submitted, as well as a link to a separate page for the particular issue (To be implemented on Milestone 3).
 
 
