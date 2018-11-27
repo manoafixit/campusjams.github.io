@@ -68,7 +68,7 @@ After creating an account or signing in, the user will now have access to the na
 #### Mobile Version
 The landing page is also made responsive with mobile devices.
 
-[<img src="images/milestone2/mobile/m2landingmobile.PNG">](https://manoafixit.meteorapp.com/#/)
+[<img size="tiny" src="images/milestone2/mobile/m2landingmobile.PNG">](https://manoafixit.meteorapp.com/#/)
 In the mobile version of the app, notice that when logged in, a sidebar button is implemented in the navbar, showing options for the Feed, Submit, Map Pages as well as the option to sign out.
 
 [<img src="images/milestone2/mobile/m2landingmobile2.PNG">](https://manoafixit.meteorapp.com/#/)
