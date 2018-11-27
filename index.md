@@ -1,7 +1,6 @@
 # Manoa Fix It
 
 (click [here](http://manoafixit.meteorapp.com) to redirect to the app)
-(click [here](https://github.com/manoafixit/manoafixit) to visit the Manoafixit github organization)
 
 ## Goals of the project
 * To create an app that serves a place where all people can address current issues around UHM Campus.
@@ -37,7 +36,9 @@ ManoaFixIt is a user-friendly application that enables all students around UH Ma
 
 (click on image to redirect to particular page)
 
-### Landing
+## Milestone 1
+
+### Landing Page
 [<img src="images/landingactual.PNG">](http://manoafixit.meteorapp.com/#/)
 This is where the user is redirected when not logged in. It contains simple descriptions of the app.
 
@@ -51,11 +52,17 @@ This is where the user submits issues. Note that the user must put a title and d
 
 ### Map Page
 [<img src="images/map.PNG">](http://manoafixit.meteorapp.com/#/map)
-This is where the map of UHM campus which shows the location of the issues that were submitted on the application. (Need to update since we made changes to this in Milestone 2)
+This is where the map of UHM campus which shows the location of the issues that were submitted on the application.
+
+## Milestone 2
+
+### Landing Page
+
+### Submit Page
+
+### Map Page
 
 ### Feed Page
-(Insert Image)
-This is where the issues are listed. It shows 
 
 ## About us
 
