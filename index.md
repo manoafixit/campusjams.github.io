@@ -36,6 +36,7 @@ ManoaFixIt is a user-friendly application that enables all students around UH Ma
 ## Developer Guide
 
 (click on image to redirect to particular page)
+(you should be logged in to have access to different pages)
 
 ## Milestone 1
 
