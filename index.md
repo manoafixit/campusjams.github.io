@@ -20,7 +20,9 @@ ManoaFixIt is a user-friendly application that enables all students around UH Ma
 
 [Milestone 2](https://github.com/manoafixit/manoafixit/projects/2) - In Progress
 
-## App Progress
+(Insert link to Milestone 3)
+
+## User Guide
 
 ### Installation
 * [Download the app](https://github.com/manoafixit/manoafixit). Remember to go to the **dev** branch and not the **master**.
@@ -29,6 +31,8 @@ ManoaFixIt is a user-friendly application that enables all students around UH Ma
   * This would install the packages or tools in Node.js which are not included in the source code on GitHub.
 * Next, type *meteor npm run start*.
   * This will initiliaze meteor, so you could run your app on *http://localhost:3000*
+
+## Developer Guide
 
 (click on image to redirect to particular page)
 
@@ -46,7 +50,11 @@ This is where the user submits issues. Note that the user must put a title and d
 
 ### Map Page
 [<img src="images/map.PNG">](http://manoafixit.meteorapp.com/#/map)
-This is where the map of UHM campus which shows the location of the issues that were submitted on the application.
+This is where the map of UHM campus which shows the location of the issues that were submitted on the application. (Need to update since we made changes to this in Milestone 2)
+
+### Feed Page
+(Insert Image)
+This is where the issues are listed. It shows 
 
 ## About us
 
