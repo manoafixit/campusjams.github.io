@@ -176,7 +176,7 @@ We changed the footer from social media icons to working links to each of our gi
 As you can see here, our footer is viewable on mobile as well.
 <p align="center">
  <a href="https://manoafixit.meteorapp.com/#/feed">
-  <img width="360" height="716" src="images/milestone3/mobile/m3footermobile.PNG">
+  <img width="307" height="191" src="images/milestone3/mobile/m3footermobile.PNG">
  </a>
 </p>
 
