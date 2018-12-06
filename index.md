@@ -130,6 +130,151 @@ This is our feed page which shows a list of submitted issues, tags and details a
 
 The feed page on mobile works but is not responsive; the table gets distorted.
 
+## Milestone 3 - Will be deployed
+
+### Submit Page
+[<img src="images/milestone3/m3submit.PNG">](https://manoafixit.meteorapp.com/#/submit)
+For our submit page we added a text box reminder at the bottom stating that our map will pinpoint your location more accurately when using a device with gps like a phone versus a computer. 
+
+
+### Map Page
+[<img src="images/milestone3/m3map.PNG">](https://manoafixit.meteorapp.com/#/map)
+For milestone 3 we updated the look of our markers for current issues, and also edited the color that these markers can take. There is a segment at the top of the map page showing the different markers and their statuses.
+
+#### Mobile Version
+
+<p align="center">
+ <a href="https://manoafixit.meteorapp.com/#/map">
+  <img width="360" height="716" src="images/milestone3/mobile/m3mapmobile.PNG">
+ </a>
+</p>
+The map page also works responsively on mobile. Notice that after submitting an issue, the map places a marker to the location of the submitted issue.
+
+
+
+### Feed Page
+[<img src="images/milestone3/m3feed.PNG">](https://manoafixit.meteorapp.com/#/feed)
+For milestone 3 we implemented a like counter to our issues which shows the number of likes from other users on an issue. We better formatted the display of tags and statuses.
+
+
+#### Mobile Version
+
+As you can see here, our feed page is viewable on mobile.
+<p align="center">
+ <a href="https://manoafixit.meteorapp.com/#/feed">
+  <img width="360" height="716" src="images/milestone3/mobile/m3feedmobile.PNG">
+ </a>
+</p>
+
+### Footer
+<img src="images/milestone3/m3footer.PNG">
+We changed the footer from social media icons to working links to each of our github profiles
+
+
+#### Mobile Version
+
+As you can see here, our footer is viewable on mobile as well.
+<p align="center">
+ <a href="https://manoafixit.meteorapp.com/#/feed">
+  <img width="360" height="716" src="images/milestone3/mobile/m3footermobile.PNG">
+ </a>
+</p>
+
+### Issue Page
+<img src="images/milestone3/m3issue.PNG">
+When you click on an issue listed on the feed page, it takes you to the issue page where users can reply to an issue and read past replies.
+
+
+#### Mobile Version
+
+As you can see here, our issue page is viewable on mobile as well.
+<p align="center">
+ <a href="https://manoafixit.meteorapp.com/#/issue">
+  <img width="360" height="716" src="images/milestone3/mobile/m3issuemobile.PNG">
+ </a>
+</p>
+
+#### Mobile sidebar
+
+We also changed the look of our sidebar when viewing on mobile
+<p align="center">
+  <img width="360" height="716" src="images/milestone3/mobile/m3sidebarmobile.PNG">
+ </a>
+</p>
+
+### Community Feedback
+
+#### Sam H.
+
+* What features of our app did you like? 
+The simplicity and ease of the website. I enjoyed using a created username versus a legal name because we can speak freely and not worry about anonymity.
+* What features of our app did you dislike?
+Repitition of information on the home page. I wanted to be able to select where on the map our problems were relevant instead of where the incident was reported.
+* What suggestions do you have to improve or add to our app?
+Improve the location options as stated above.
+* Would you actually use our app in your student life?
+Yes
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve? 
+7
+* From a scale of 1 to 10, what is the overall quality of our app?
+8
+
+#### Davin T.
+* What features of our app did you like? 
+Dynamic map and a simple design. 
+* What features of our app did you dislike?
+Some buttons do not work, repeat of some text.
+* What suggestions do you have to improve or add to our app?
+Perhaps a feature that allows issue submission without allowing location access.
+* Would you actually use our app in your student life?
+Yes
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve?
+7
+* From a scale of 1 to 10, what is the overall quality of our app?
+8
+
+#### Marty A.
+* What features of our app did you like? 
+The background pictures featuring our campus were a nice touch.
+* What features of our app did you dislike?
+The homepage had a nice background but the other pages were plain. 
+* What suggestions do you have to improve or add to our app?
+Backgrounds to all pages so it is more appealing
+* Would you actually use our app in your student life?
+Yes
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve? 
+10
+* From a scale of 1 to 10, what is the overall quality of our app?
+9
+
+#### Ed Ryan B.
+* What features of our app did you like? 
+I liked that there is a like counter next to the issues, it reminds me of reddit
+* What features of our app did you dislike?
+I initially blocked my location access and had to go through the steps of giving it permission. 
+* What suggestions do you have to improve or add to our app?
+Add directions about giving location access on the homepage
+* Would you actually use our app in your student life?
+Yes
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve? 
+9
+* From a scale of 1 to 10, what is the overall quality of our app?
+6
+
+#### Austin T.
+* What features of our app did you like?
+The map that shows issues that were submitted as well as its status
+* What features of our app did you dislike?
+Social media buttons don't work
+* What suggestions do you have to improve or add to our app?
+Fix your social media buttons
+* Would you actually use our app in your student life?
+Yes
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve? 
+8
+* From a scale of 1 to 10, what is the overall quality of our app?
+8
+
 ## About us
 
 ### Adrian Au
