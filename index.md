@@ -154,7 +154,7 @@ The map page also works responsively on mobile. Notice that after submitting an 
 
 ### Feed Page
 [<img src="images/milestone3/m3feed.PNG">](https://manoafixit.meteorapp.com/#/feed)
-For milestone 3 we implemented a like counter to our issues which shows the number of likes from other users on an issue. We also made the feed page better displayed when viewing on mobile.
+For milestone 3 we implemented a like counter to our issues which shows the number of likes from other users on an issue. We better formatted the display of tags and statuses.
 
 
 #### Mobile Version
@@ -169,6 +169,8 @@ As you can see here, our feed page is viewable on mobile.
 ### Footer
 <img src="images/milestone3/m3footer.PNG">
 We changed the footer from social media icons to working links to each of our github profiles
+
+
 #### Mobile Version
 
 As you can see here, our footer is viewable on mobile as well.
@@ -181,6 +183,8 @@ As you can see here, our footer is viewable on mobile as well.
 ### Issue Page
 <img src="images/milestone3/m3issue.PNG">
 When you click on an issue listed on the feed page, it takes you to the issue page where users can reply to an issue and read past replies.
+
+
 #### Mobile Version
 
 As you can see here, our issue page is viewable on mobile as well.
@@ -191,13 +195,17 @@ As you can see here, our issue page is viewable on mobile as well.
 </p>
 
 #### Mobile sidebar
+
 We also changed the look of our sidebar when viewing on mobile
 <p align="center">
   <img width="360" height="716" src="images/milestone3/mobile/m3sidebarmobile.PNG">
  </a>
 </p>
+
 ### Community Feedback
+
 #### Sam H.
+
 * What features of our app did you like? 
 The simplicity and ease of the website. I enjoyed using a created username versus a legal name because we can speak freely and not worry about anonymity.
 * What features of our app did you dislike?
