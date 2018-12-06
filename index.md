@@ -97,13 +97,16 @@ When you are using a mobile device, a sidebar contains all the navigation bar bu
 <img src="images/milestone3/m3footer.PNG">
 We changed the footer from social media icons to working links to each of our github profiles
 
-
 #### Mobile Version
 
 As you can see here, our footer is viewable on mobile as well.
 <p align="center">
   <img width="307" height="191" src="images/milestone3/mobile/m3footermobile.PNG">
 </p>
+
+### Milestone 3 Video
+
+[Watch](https://www.youtube.com/watch?v=0p8vGvEfy8M&feature=youtu.be)
 
 ### Community Feedback
 
