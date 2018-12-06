@@ -129,6 +129,76 @@ This is our feed page which shows a list of submitted issues, tags and details a
 #### Mobile Version
 
 The feed page on mobile works but is not responsive; the table gets distorted.
+### Community Feedback
+# Sam.H
+* What features of our app did you like? 
+The simplicity and ease of the website. I enjoyed using a created username versus a legal name because we can speak freely and not worry about anonymity.
+* What features of our app did you dislike?
+Repitition of information on the home page. I wanted to be able to select where on the map our problems were relevant instead of where the incident was reported.
+* What suggestions do you have to improve or add to our app?
+Improve the location options as stated above.
+* Would you actually use our app in your student life?
+Yes
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve? 
+7
+* From a scale of 1 to 10, what is the overall quality of our app?
+8
+
+# Davin.T
+* What features of our app did you like? 
+Dynamic map and a simple design. 
+* What features of our app did you dislike?
+Some buttons do not work, repeat of some text.
+* What suggestions do you have to improve or add to our app?
+Perhaps a feature that allows issue submission without allowing location access.
+* Would you actually use our app in your student life?
+Yes
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve?
+7
+* From a scale of 1 to 10, what is the overall quality of our app?
+8
+
+# Marty.A
+* What features of our app did you like? 
+The background pictures featuring our campus were a nice touch.
+* What features of our app did you dislike?
+The homepage had a nice background but the other pages were plain. 
+* What suggestions do you have to improve or add to our app?
+Backgrounds to all pages so it is more appealing
+* Would you actually use our app in your student life?
+Yes
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve? 
+10
+* From a scale of 1 to 10, what is the overall quality of our app?
+9
+
+# Ed Ryan B.
+* What features of our app did you like? 
+I liked that there is a like counter next to the issues, it reminds me of reddit
+* What features of our app did you dislike?
+I initially blocked my location access and had to go through the steps of giving it permission. 
+* What suggestions do you have to improve or add to our app?
+Add directions about giving location access on the homepage
+* Would you actually use our app in your student life?
+Yes
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve? 
+9
+* From a scale of 1 to 10, what is the overall quality of our app?
+6
+
+# Austin T.
+* What features of our app did you like?
+The map that shows issues that were submitted as well as its status
+* What features of our app did you dislike?
+Social media buttons don't work
+* What suggestions do you have to improve or add to our app?
+Fix your social media buttons
+* Would you actually use our app in your student life?
+Yes
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve? 
+8
+* From a scale of 1 to 10, what is the overall quality of our app?
+8
 
 ## About us
 
