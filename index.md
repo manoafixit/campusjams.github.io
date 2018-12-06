@@ -129,6 +129,73 @@ This is our feed page which shows a list of submitted issues, tags and details a
 #### Mobile Version
 
 The feed page on mobile works but is not responsive; the table gets distorted.
+
+## Milestone 3 - Will be deployed
+
+### Submit Page
+[<img src="images/milestone3/m3submit.PNG">](https://manoafixit.meteorapp.com/#/submit)
+For our submit page we added a text box reminder at the bottom stating that our map will pinpoint your location more accurately when using a device with gps like a phone versus a computer. 
+
+
+### Map Page
+[<img src="images/milestone3/m3map.PNG">](https://manoafixit.meteorapp.com/#/map)
+For milestone 3 we updated the look of our markers for current issues, and also edited the color that these markers can take. There is a segment at the top of the map page showing the different markers and their statuses.
+
+#### Mobile Version
+
+<p align="center">
+ <a href="https://manoafixit.meteorapp.com/#/map">
+  <img width="360" height="716" src="images/milestone3/mobile/m3mapmobile.PNG">
+ </a>
+</p>
+The map page also works responsively on mobile. Notice that after submitting an issue, the map places a marker to the location of the submitted issue.
+
+
+
+### Feed Page
+[<img src="images/milestone3/m3feed.PNG">](https://manoafixit.meteorapp.com/#/feed)
+For milestone 3 we implemented a like counter to our issues which shows the number of likes from other users on an issue. We also made the feed page better displayed when viewing on mobile.
+
+
+#### Mobile Version
+
+As you can see here, our feed page is viewable on mobile.
+<p align="center">
+ <a href="https://manoafixit.meteorapp.com/#/feed">
+  <img width="360" height="716" src="images/milestone3/mobile/m3feedmobile.PNG">
+ </a>
+</p>
+
+### Footer
+<img src="images/milestone3/m3footer.PNG">
+We changed the footer from social media icons to working links to each of our github profiles
+#### Mobile Version
+
+As you can see here, our footer is viewable on mobile as well.
+<p align="center">
+ <a href="https://manoafixit.meteorapp.com/#/feed">
+  <img width="360" height="716" src="images/milestone3/mobile/m3footermobile.PNG">
+ </a>
+</p>
+
+### Issue Page
+<img src="images/milestone3/m3issue.PNG">
+When you click on an issue listed on the feed page, it takes you to the issue page where users can reply to an issue and read past replies.
+#### Mobile Version
+
+As you can see here, our issue page is viewable on mobile as well.
+<p align="center">
+ <a href="https://manoafixit.meteorapp.com/#/issue">
+  <img width="360" height="716" src="images/milestone3/mobile/m3issuemobile.PNG">
+ </a>
+</p>
+
+#### Mobile sidebar
+We also changed the look of our sidebar when viewing on mobile
+<p align="center">
+  <img width="360" height="716" src="images/milestone3/mobile/m3sidebarmobile.PNG">
+ </a>
+</p>
 ### Community Feedback
 #### Sam H.
 * What features of our app did you like? 
