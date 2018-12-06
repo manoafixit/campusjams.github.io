@@ -198,7 +198,7 @@ As you can see here, our issue page is viewable on mobile as well.
 
 We also changed the look of our sidebar when viewing on mobile
 <p align="center">
-  <img width="360" height="716" src="images/milestone3/mobile/m3sidebarmobile.PNG">
+  <img width="306" height="171" src="images/milestone3/mobile/m3sidebarmobile.PNG">
 </p>
 
 ### Community Feedback
