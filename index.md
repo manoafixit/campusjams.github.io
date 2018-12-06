@@ -56,7 +56,7 @@ This is where the user submits issues. Note that the user must put a title and d
 [<img src="images/map.PNG">](http://manoafixit.meteorapp.com/#/map)
 This is where the map of UHM campus which shows the location of the issues that were submitted on the application.
 
-## Milestone 2 - Currently Deployed
+## Milestone 2 - Completed
 
 ### Landing Page
 [<img src="images/milestone2/m2landing.PNG">](https://manoafixit.meteorapp.com/#/)
@@ -130,11 +130,11 @@ This is our feed page which shows a list of submitted issues, tags and details a
 
 The feed page on mobile works but is not responsive; the table gets distorted.
 
-## Milestone 3 - Will be deployed
+## Milestone 3 - Currently Deployed
 
 ### Submit Page
 [<img src="images/milestone3/m3submit.PNG">](https://manoafixit.meteorapp.com/#/submit)
-For our submit page we added a text box reminder at the bottom stating that our map will pinpoint your location more accurately when using a device with gps like a phone versus a computer. 
+For our submit page we added a text box reminder at the bottom stating that our map will pinpoint your location more accurately when using a device with GPS like a phone versus a computer. 
 
 
 ### Map Page
@@ -199,7 +199,6 @@ As you can see here, our issue page is viewable on mobile as well.
 We also changed the look of our sidebar when viewing on mobile
 <p align="center">
   <img width="360" height="716" src="images/milestone3/mobile/m3sidebarmobile.PNG">
- </a>
 </p>
 
 ### Community Feedback
