@@ -130,7 +130,7 @@ This is our feed page which shows a list of submitted issues, tags and details a
 
 The feed page on mobile works but is not responsive; the table gets distorted.
 ### Community Feedback
-#### Sam.H
+#### Sam H.
 * What features of our app did you like? 
 The simplicity and ease of the website. I enjoyed using a created username versus a legal name because we can speak freely and not worry about anonymity.
 * What features of our app did you dislike?
@@ -144,7 +144,7 @@ Yes
 * From a scale of 1 to 10, what is the overall quality of our app?
 8
 
-#### Davin.T
+#### Davin T.
 * What features of our app did you like? 
 Dynamic map and a simple design. 
 * What features of our app did you dislike?
@@ -158,7 +158,7 @@ Yes
 * From a scale of 1 to 10, what is the overall quality of our app?
 8
 
-#### Marty.A
+#### Marty A.
 * What features of our app did you like? 
 The background pictures featuring our campus were a nice touch.
 * What features of our app did you dislike?
