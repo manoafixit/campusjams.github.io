@@ -4,7 +4,17 @@
 </br>
 (click [here](https://github.com/manoafixit) to visit the Manoafixit github organization page)
 
-* [test](#goals-of-the-project)
+## Table of Contents
+
+* [Goals of the Project](#goals-of-the-project)
+* [What the System Provides](#what-the-system-provides)
+* [Overview](#overview)
+* [Milestones](#milestones)
+* [Development Timelapse](#development-timelapse)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
+* [Community Feedback](#community-feedback)
+* [About Us](#about-us)
 
 ## Goals of the Project
 * To create an app that serves a place where all people can address current issues around UHM Campus.
@@ -94,7 +104,7 @@ The map page also works responsively on mobile. Notice that after submitting an 
 
 ## Other components:
 
-### Mobile sidebar
+### Mobile Sidebar
 
 When you are using a mobile device, a sidebar contains all the navigation bar buttons, instead of the navbar containing all the buttons itself.
 <p align="center">
@@ -111,10 +121,6 @@ As you can see here, our footer is viewable on mobile as well.
 <p align="center">
   <img width="307" height="191" src="images/milestone3/mobile/m3footermobile.PNG">
 </p>
-
-### Milestone 3 Video
-
-
 
 ### Community Feedback
 
@@ -189,7 +195,7 @@ Yes
 * From a scale of 1 to 10, what is the overall quality of our app?
 8
 
-## About us
+## About Us
 
 ### Adrian Au
 * I want to learn how an actual software engineer operates with a group and what is needed to create a successful project. I hope to improve on my skills using GitHub and as well as with meteor.
