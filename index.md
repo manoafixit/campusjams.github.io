@@ -23,6 +23,8 @@ ManoaFixIt is a user-friendly application that enables all students around UH Ma
 
 [Milestone 3](https://github.com/manoafixit/manoafixit/projects/3) - Tentatively Done
 
+To check all the release versions of the application click [here](https://github.com/manoafixit/manoafixit/releases). It will show details of the app's progress, starting from milestone one up to milestone three.
+
 ## Development Timelapse
 [![ManoaFixIt Timelapse](https://img.youtube.com/vi/0p8vGvEfy8M/0.jpg)](https://www.youtube.com/watch?v=0p8vGvEfy8M)
 ## User Guide
