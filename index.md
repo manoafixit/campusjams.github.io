@@ -69,7 +69,7 @@ The submit page allows you to submit issues that you find on campus. We added a 
 
 ### Feed Page
 [<img src="images/milestone3/m3feed.PNG">](https://manoafixit.meteorapp.com/#/feed)
-The feed page displays all the issues that have been submitted by every student. It shows the status of the issue, tags associated by with it, the poster, the number of likes, and the date it was submitted.
+The feed page displays all the issues that have been submitted by every student. It shows the status of the issue, tags associated by with it, the poster, the number of likes, and the date it was submitted. Every user can edit or delete their own issues; however, the super admin(s) can delete any issues.
 
 #### Mobile Version
 
@@ -88,9 +88,7 @@ When you click on an issue listed on the feed page, it takes you to the issue pa
 
 As you can see here, our issue page is viewable on mobile as well.
 <p align="center">
- <a href="https://manoafixit.meteorapp.com/#/issue">
   <img width="360" height="716" src="images/milestone3/mobile/m3issuemobile.PNG">
- </a>
 </p>
 
 ### Map Page
