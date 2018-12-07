@@ -1,9 +1,12 @@
 # Manoa Fix It
 
 (click [here](http://manoafixit.meteorapp.com) to redirect to the app)
+</br>
 (click [here](https://github.com/manoafixit) to visit the Manoafixit github organization page)
 
-## Goals of the project
+* [test](#goals-of-the-project)
+
+## Goals of the Project
 * To create an app that serves a place where all people can address current issues around UHM Campus.
 * Also to create place where people could give suggestions on how to improve certain aspects in UH Manoa.
 * To showcase the skills the project creators have learned in ICS 314.
@@ -27,6 +30,7 @@ To check all the release versions of the application click [here](https://github
 
 ## Development Timelapse
 [![ManoaFixIt Timelapse](https://img.youtube.com/vi/0p8vGvEfy8M/0.jpg)](https://www.youtube.com/watch?v=0p8vGvEfy8M)
+
 ## User Guide
 
 ### Installation
