@@ -23,6 +23,8 @@ ManoaFixIt is a user-friendly application that enables all students around UH Ma
 
 [Milestone 3](https://github.com/manoafixit/manoafixit/projects/3) - Tentatively Done
 
+## Development Timelapse
+[![ManoaFixIt Timelapse](https://img.youtube.com/vi/0p8vGvEfy8M/0.jpg)](https://www.youtube.com/watch?v=0p8vGvEfy8M)
 ## User Guide
 
 ### Installation
@@ -106,13 +108,13 @@ As you can see here, our footer is viewable on mobile as well.
 
 ### Milestone 3 Video
 
-[Watch](https://www.youtube.com/watch?v=0p8vGvEfy8M&feature=youtu.be)
+
 
 ### Community Feedback
 
 #### Sam H.
 
-* What features of our app did you like? 
+* What features of our app did you like?
 The simplicity and ease of the website. I enjoyed using a created username versus a legal name because we can speak freely and not worry about anonymity.
 * What features of our app did you dislike?
 Repitition of information on the home page. I wanted to be able to select where on the map our problems were relevant instead of where the incident was reported.
@@ -120,14 +122,14 @@ Repitition of information on the home page. I wanted to be able to select where 
 Improve the location options as stated above.
 * Would you actually use our app in your student life?
 Yes
-* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve? 
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve?
 7
 * From a scale of 1 to 10, what is the overall quality of our app?
 8
 
 #### Davin T.
-* What features of our app did you like? 
-Dynamic map and a simple design. 
+* What features of our app did you like?
+Dynamic map and a simple design.
 * What features of our app did you dislike?
 Some buttons do not work, repeat of some text.
 * What suggestions do you have to improve or add to our app?
@@ -140,29 +142,29 @@ Yes
 8
 
 #### Marty A.
-* What features of our app did you like? 
+* What features of our app did you like?
 The background pictures featuring our campus were a nice touch.
 * What features of our app did you dislike?
-The homepage had a nice background but the other pages were plain. 
+The homepage had a nice background but the other pages were plain.
 * What suggestions do you have to improve or add to our app?
 Backgrounds to all pages so it is more appealing
 * Would you actually use our app in your student life?
 Yes
-* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve? 
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve?
 10
 * From a scale of 1 to 10, what is the overall quality of our app?
 9
 
 #### Ed Ryan B.
-* What features of our app did you like? 
+* What features of our app did you like?
 I liked that there is a like counter next to the issues, it reminds me of reddit
 * What features of our app did you dislike?
-I initially blocked my location access and had to go through the steps of giving it permission. 
+I initially blocked my location access and had to go through the steps of giving it permission.
 * What suggestions do you have to improve or add to our app?
 Add directions about giving location access on the homepage
 * Would you actually use our app in your student life?
 Yes
-* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve? 
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve?
 9
 * From a scale of 1 to 10, what is the overall quality of our app?
 6
@@ -176,7 +178,7 @@ Social media buttons don't work
 Fix your social media buttons
 * Would you actually use our app in your student life?
 Yes
-* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve? 
+* From a scale of 1 to 10, how well did our app accomplish solving the problem it is trying to solve?
 8
 * From a scale of 1 to 10, what is the overall quality of our app?
 8
@@ -184,9 +186,9 @@ Yes
 ## About us
 
 ### Adrian Au
-* I want to learn how an actual software engineer operates with a group and what is needed to create a successful project. I hope to improve on my skills using GitHub and as well as with meteor. 
+* I want to learn how an actual software engineer operates with a group and what is needed to create a successful project. I hope to improve on my skills using GitHub and as well as with meteor.
 * All skills that I own have been obtained through this class and prior classes such as 111 and 211
-* Unavailable on Saturday nights but mostly available all day Sunday (we could meet on sundays) 
+* Unavailable on Saturday nights but mostly available all day Sunday (we could meet on sundays)
 * Discord is working fine my number is 808(753-2689) for more immediate notification because I don’t see discord unless I open it on my computer.
 
 ### Gian Calica
@@ -198,7 +200,7 @@ Yes
    * Project Structure
    * Connecting back-end to front-end, vice-versa
    * Git & GitHub
-   
+
 ### Graham Francisco
 * To test my knowledge based on what we have learned so far in the semester and incorporate all of them into this final project. I want to learn how to complete a group project in a very efficient and systematic way and I would also like to improve my understanding of javascript, react and meteor.
 * Like most of my classmates, I have acquired most of my skills in 111 and 211 ICS classes in which we extensively used Java. I will do my best to translate the skills I’ve learned in these classes into this project.
